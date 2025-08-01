@@ -1,4 +1,4 @@
-# Efficient Explicit-Trace Runtime Verification for Software Testing
+# Faster Explicit-Trace Monitoring-Oriented Programming for Runtime Verification of Software Tests
 
 ## Appendix
 See [appendix.pdf](appendix.pdf) for the formative study and evolution experiment results.

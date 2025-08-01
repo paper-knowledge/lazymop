@@ -4,8 +4,8 @@
 See [appendix.pdf](appendix.pdf) for the formative study and evolution experiment results.
 
 ## Projects and data
-You can find the 61 projects and their revision (for RQ1 and RQ2) that we evaluate [here](data/projects.csv). [This file](data/imm-study.csv) contains the
-IMMs statistics for these 61 projects, and [this directory](data/evolution) contains the raw data from the software evolution experiments.
+You can find the 179 projects and their revision (for RQ1 and RQ2) that we evaluate [here](data/projects.csv). [This file](data/imm-study.csv) contains the
+IMMs statistics for these 179 projects, and [this directory](data/evolution) contains the raw data from the software evolution experiments.
 
 ## Repository structure
 | Directory               | Purpose                                       |
